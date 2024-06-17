@@ -1,1 +1,1 @@
-Live Link: https://app.netlify.com/sites/qrcode-card-byksd/overview
+Live Link: https://qrcode-card-byksd.netlify.app/
